@@ -1,0 +1,8 @@
+{
+  "packages": {
+    "iron-router": {},
+    "semantic-ui": {},
+    "reveal-js": {},
+    "streams": {}
+  }
+}
